@@ -1,0 +1,38 @@
+site_name: Luma Docs
+site_url: https://docs.luma.vision
+nav:
+  - Home: index.md
+  # - P1:
+  #     - p1/index.md
+  #     - Mounting: p1/mounting.md
+  #     - Wiring: p1/wiring.md
+  #     - Flashing: p1/flashing.md
+  #     - Software: p1/software.md
+  #     - Troubleshooting: p1/troubleshooting.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: "img/LumaLogoWhite.png"
+  favicon: "img/Luma Logo.png"
+  features:
+    # - content.code.copy
+    # - content.code.select
+    # - content.code.annotate
+    # - content.code.select.title
+    - toc.follow
+    - toc.integrate
+    - search.share
+    - search.highlight
+    - search.suggest
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.indexes
