@@ -5,7 +5,7 @@ The simplest and most reliable method of wiring P1 is by utilizing the Vivid Hos
 
 ![Radio PoE Diagram](img/Radio%20PoE%20Diagram.png){width="600"}
 
-Simply connect the radio to P1 with an ethernet cable and switch on the PoE dipswitch for the port its plugged into.
+Simply connect the radio to P1 with an ethernet cable and switch on the [PoE dipswitch](https://frc-radio.vivid-hosting.net/overview/wiring-your-radio#power-over-ethernet-poe-for-downstream-devices) for the port its plugged into.
 
 ## PoE Injector
 If you do not wish to use PoE from the radio or would like to connect P1 to an ethernet switch, you can still power P1 via PoE by using a PoE injector or custom PoE cable. Use a 5A or 10A fuse in the slot powering the PoE injector or cable.
