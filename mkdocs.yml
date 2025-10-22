@@ -11,6 +11,9 @@ nav:
   #     - Troubleshooting: p1/troubleshooting.md
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 theme:
   name: material
