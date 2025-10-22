@@ -19,5 +19,6 @@
 
 ## Quick Links
 * [Store Page](https://luma.vision/products/p1)
-* STEP file
+* [STEP file](files/P1%20Assembly%20Public.step)
+* [Mounting Diagram](files/P1%20Assembly%20Public%20Drawing.pdf)
 * 3D printing files
