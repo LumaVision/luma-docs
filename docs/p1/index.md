@@ -19,6 +19,7 @@
 
 ## Quick Links
 * [Store Page](https://luma.vision/products/p1)
+* [PhotonVision Docs](https://docs.photonvision.org/en/latest/)
 * [STEP file](files/P1%20Assembly%20Public.step)
 * [Mounting Diagram](files/P1%20Assembly%20Public%20Drawing.pdf)
 * 3D printing files
