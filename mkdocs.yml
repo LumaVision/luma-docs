@@ -7,8 +7,6 @@ nav:
       - Mounting: p1/mounting.md
       - Wiring: p1/wiring.md
       - Flashing: p1/flashing.md
-  #     - Software: p1/software.md
-  #     - Troubleshooting: p1/troubleshooting.md
 markdown_extensions:
   - attr_list
   - admonition
