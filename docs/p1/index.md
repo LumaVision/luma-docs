@@ -15,7 +15,7 @@
 * 56 degree vertical FOV
 * USB 3 port for additional external cameras/USB devices
 * 3D printed PA-CF enclosure
-* 0.21 lbs (95g)
+* 0.22 lbs (99g)
 
 ## Quick Links
 * [Store Page](https://luma.vision/products/p1)
