@@ -22,4 +22,5 @@
 * [PhotonVision Docs](https://docs.photonvision.org/en/latest/)
 * [STEP file](files/P1%20Assembly%20Public.step)
 * [Mounting Diagram](files/P1%20Assembly%20Public%20Drawing.pdf)
-* [3D printing files](https://makerworld.com/en/models/1925518-luma-p1-printable-enclosure)
+* [Enclosure 3D printing files](https://makerworld.com/en/models/1925518-luma-p1-printable-enclosure)
+* [Airflow spacer 3D printing files](https://makerworld.com/en/models/1939322-luma-p1-airflow-spacer)

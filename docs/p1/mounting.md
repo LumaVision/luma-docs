@@ -5,4 +5,6 @@ P1 has four 5mm (0.2") through-holes in each corner of the device. These holes c
 !!! warning
     When developing your mounting solution, ensure that you do not block the fan grate on the back of the device, or the fan will be unable to properly cool the device. You can either leave a hole in your mount to allow the fan to breath, or use spacers to create some breathing room between the fan and the mount.
 
+A printable spacer with an airflow channel to allow mounting against a surface where adding an air hole is not possible is [available here](https://makerworld.com/en/models/1939322-luma-p1-airflow-spacer). This spacer will also be available to purchase printed with the same high strength, heat resistant filament as the P1 enclosure.
+
 ![Mounting Diagram](img/P1%20Assembly%20Public%20Drawing.jpeg)
