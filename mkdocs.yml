@@ -7,6 +7,9 @@ nav:
       - Mounting: p1/mounting.md
       - Wiring: p1/wiring.md
       - Flashing: p1/flashing.md
+      - Spare Parts: p1/parts.md
+  - LumaSwitch:
+     - lumaswitch/index.md
 markdown_extensions:
   - attr_list
   - admonition

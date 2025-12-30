@@ -10,7 +10,7 @@
     * Windows: [Download](https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe)
     * Mac/Linux: [Build from source](https://github.com/raspberrypi/usbboot)
 2. Download and install [balenaEtcher](https://etcher.balena.io/)
-3. Download the [latest PhotonVision image for Luma P1](https://github.com/PhotonVision/photonvision/releases/download/v2026.0.0-alpha-2/photonvision-v2026.0.0-alpha-2-linuxarm64_luma_p1.img.xz) or other raspberry pi compatible vision solutions
+3. Download the [latest PhotonVision image for Luma P1](https://github.com/PhotonVision/photonvision/releases) or other raspberry pi compatible vision solutions
 
 ## Put P1 in Flash Mode
 1. Ensure P1 is not powered
