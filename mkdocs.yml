@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - P1:
       - p1/index.md
+      - Getting Started: p1/getting_started.md
       - Mounting: p1/mounting.md
       - Wiring: p1/wiring.md
       - Flashing: p1/flashing.md
