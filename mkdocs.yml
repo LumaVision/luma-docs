@@ -11,6 +11,8 @@ nav:
       - Spare Parts: p1/parts.md
   - LumaSwitch:
      - lumaswitch/index.md
+     - Mounting: lumaswitch/mounting.md
+     - Wiring: lumaswitch/wiring.md
 markdown_extensions:
   - attr_list
   - admonition
