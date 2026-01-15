@@ -2,7 +2,7 @@
 
 ## Powering LumaSwitch
 
-LumaSwitch can be powered via unregulated battery voltage directly from the PDH/PDP/MPM via the Wago lever terminal. The lever terminal can accept 26 to 16 AWG wire. If you are using LumaSwitch to power other devices with PoE, 16 or 18 AWG wire is recommended, with a 20A fuse protecting the switch. If not using PoE, you can safely use any compatible wire with a 5A fuse.
+LumaSwitch can be powered via unregulated battery voltage directly from the PDH/PDP/MPM via the Wago lever terminal. The lever terminal can accept 26 to 16 AWG wire. If you are using LumaSwitch to power other devices with PoE, 16 or 18 AWG wire is recommended, with a 15A-20A fuse protecting the switch, depending on what is legally allowed in the port you're using. If not using PoE, you can safely use any compatible wire with a 5A fuse.
 
 When LumaSwitch is powered on, all ethernet status lights will blink once to indicate it is powered and working properly.
 
